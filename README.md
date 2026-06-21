@@ -1,18 +1,14 @@
-# Hi, I'm Kumkum Kumari 👋
-
-### Aspiring Java Backend Developer | Spring Boot | MySQL | B.Tech CSE
-
-I am a B.Tech CSE student passionate about Java, backend development, and building practical projects using Spring Boot and MySQL.  
-Currently, I am improving my problem-solving skills, strengthening core Java fundamentals, and working on backend-focused projects.
+<h1 align="center">Hi 👋, I'm Kumkum Kumari</h1>
+<h3 align="center">Aspiring Java Backend Developer | Spring Boot | MySQL | B.Tech CSE</h3>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 - 🎓 B.Tech CSE student
 - 💻 Interested in **Java Backend Development**
-- 🌱 Currently learning **Spring Boot, MySQL, DBMS, SQL, and DSA**
-- 🛠 Building practical projects to improve development skills
-- 📚 Practicing Java coding problems and core programming concepts
+- 🌱 Learning **Spring Boot, MySQL, SQL, DBMS, and DSA**
+- 🛠 Building practical projects and improving coding skills
+- 📚 Practicing Java fundamentals and problem solving
 
 ---
 
@@ -20,38 +16,32 @@ Currently, I am improving my problem-solving skills, strengthening core Java fun
 - **Languages:** Java, C, SQL
 - **Backend:** Spring Boot
 - **Database:** MySQL
-- **Core Subjects:** DBMS, Computer Networks, OOPs
 - **Tools:** Git, GitHub, IntelliJ IDEA
+- **Core Concepts:** OOPs, DBMS, Computer Networks
 
 ---
 
-## 📌 Featured Projects
-### 🔹 Secure ATM System
-A backend-focused ATM system project designed around secure login flow, account operations, and transaction handling.
-
-### 🔹 Lead Automation System
-A Java-based project focused on automating lead management workflow and improving process handling.
-
-### 🔹 Text Classification
-A Java project based on text classification concepts and implementation.
-
-### 🔹 Java Fundamentals Practice
-A repository containing Java practice questions and fundamental programming problem solutions.
+## 📌 Featured Repositories
+- **Secure ATM System**
+- **Lead Automation System**
+- **Text Classification Java**
+- **Java Fundamentals Practice**
+- **Java DSA Practice**
+- **C Programming Practice**
 
 ---
 
-## 📖 Current Focus
-- Java Fundamentals
-- Spring Boot backend development
-- SQL and DBMS
-- Problem solving and coding practice
-- Building stronger project portfolio
+## 📈 Current Goals
+- Strengthen Java fundamentals
+- Build more Spring Boot backend projects
+- Improve DSA and problem solving
+- Create a strong placement-ready GitHub profile
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 - GitHub: [kumkumtiwari](https://github.com/kumkumtiwari)
 
 ---
 
-⭐ *Always learning, building, and improving step by step.*
+⭐ *Learning, building, and improving every day.*
